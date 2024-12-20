@@ -1,0 +1,45 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "fdf2fb46b571eb498f43c323c7ebf79c",
+    "packages": [
+        {
+            "name": "me-burgstaller/weihnachten",
+            "version": "v1.0.0",
+            "source": {
+                "type": "git",
+                "url": "git@github.com:me-burgstaller/weihnachten.git",
+                "reference": "af88b91713830056caa45e4abc3478f940d53f85"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "MeBurgstaller\\Weihnachten\\": "src/"
+                }
+            },
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Melissa Burgstaller",
+                    "email": "melissaburgstaller@gmail.com"
+                }
+            ],
+            "description": "A christmas library",
+            "time": "2024-12-20T08:10:40+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "dev",
+    "stability-flags": {},
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": {},
+    "platform-dev": {},
+    "plugin-api-version": "2.6.0"
+}

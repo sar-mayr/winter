@@ -1,0 +1,24 @@
+{
+    "name": "sar-mayr/winter",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "SarMayr\\Winter\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sarah Mayr",
+            "email": "smayr@schueler.hakzell.at"
+        }
+    ],
+    "repositories": [{
+        "type": "git",
+        "url": "git@github.com:me-burgstaller/weihnachten.git"
+    }],
+    "minimum-stability": "dev",
+    "require": {
+        "me-burgstaller/weihnachten": "v1.0.0"
+    }
+}
